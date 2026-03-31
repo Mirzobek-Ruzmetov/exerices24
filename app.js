@@ -24,8 +24,3 @@ console.log(parseInt("100.9inc"));
 // parseFloat - qoldiq, haqiqiy songa ogirish
 console.log(parseFloat("100.9px"));
 
-let num2 = 123.45678912345
-console.log(num2.toFixed(3)); // 123,456 string
-
-let randomNumber = Math.floor(Math.random() *100)
-console.log(randomNumber); 
